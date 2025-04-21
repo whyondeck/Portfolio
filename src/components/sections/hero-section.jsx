@@ -38,7 +38,7 @@ function HeroSection() {
           WhyOnDeck
         </h1>
         <p className="mt-4  text-lg max-w-md mx-auto md:mx-0">
-          Your gateway to futuristic interaction, innovation, and design.
+          We are not here to play it safe , This is our deck we are all in.
         </p>
       </motion.div>
 
