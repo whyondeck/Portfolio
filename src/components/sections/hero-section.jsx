@@ -18,7 +18,7 @@ function RobotModel() {
     <primitive
       object={scene}
       ref={modelRef}
-      scale={[0.6, 0.6, 0.6]}
+      scale={[0.05, 0.05, 0.05]}
       position={[0, 0, 0]}
     />
   );
